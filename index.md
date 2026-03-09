@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Student Sleep Patterns Analysis
+
 ## Milestone 1: ETL and Initial Insights
 
 Welcome to our project! Below you will find our initial data extraction and interesting statistics.
