@@ -1,0 +1,14 @@
+# Site Settings
+title: Social Media vs Sleep Quality
+email: your-email@example.com
+description: A personal portfolio and blog hosted on GitHub Pages.
+
+# URL Settings (Crucial for GitHub Pages)
+url: "https://yourusername.github.io" 
+baseurl: "/your-repo-name" 
+
+# Build Settings
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
