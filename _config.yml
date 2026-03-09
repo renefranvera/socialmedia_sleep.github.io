@@ -1,14 +1,15 @@
-# Site Settings
-title: Social Media vs Sleep Quality
+title: College Student Sleep Quality
+description: Student Sleep Patterns Analysis
 email: your-email@example.com
-description: A personal portfolio and blog hosted on GitHub Pages.
 
-# URL Settings (Crucial for GitHub Pages)
-url: "https://renefranvera.github.io/socialmedia_sleep.github.io/" 
+# URL Settings
+url: "https://renefranvera.github.io"
 baseurl: "/socialmedia_sleep.github.io" 
 
-# Build Settings
-theme: jekyll-just-the-docs
+# Theme Settings
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-seo-tag
