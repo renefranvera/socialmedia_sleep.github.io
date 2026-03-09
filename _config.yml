@@ -8,7 +8,7 @@ url: "https://renefranvera.github.io/socialmedia_sleep.github.io/"
 baseurl: "/socialmedia_sleep.github.io" 
 
 # Build Settings
-theme: jekyll-theme-cayman
+theme: jekyll-just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
