@@ -4,7 +4,7 @@ email: your-email@example.com
 
 # URL Settings
 url: "https://renefranvera.github.io"
-baseurl: "/social-media-sleep" 
+baseurl: "/student-sleep-analysis" 
 
 # Theme Settings
 remote_theme: just-the-docs/just-the-docs
