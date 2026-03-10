@@ -4,7 +4,7 @@ title: "Milestone 1: ETL and Initial Insights"
 nav_order: 2
 ---
 
-# ilestone 1: ETL and Initial Insights
+# Milestone 1: ETL and Initial Insights
 Below is the complete interactive notebook for our study.
 
 
