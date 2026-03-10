@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Milestone 1: ETL and Initial Insights
+title: "Milestone 1: ETL and Initial Insights"
 nav_order: 2
 ---
 
